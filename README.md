@@ -14,26 +14,10 @@ OPENAI_API_KEY openai的apikey
 OPENAI_BASE_URL openai的baseurl
 vectorstores_path 文档向量化后服务器保存路径
 
-上传知识文件页面
+上传知识文件和管理知识页面
 ![4c9033b207c85ae75204501435cbf43](https://github.com/user-attachments/assets/99b2c8ec-53f8-4020-8efa-5da2cb23a1c5)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-知识文件管理页面
 ![440432b2d0f193625659ffbc3d10b9f](https://github.com/user-attachments/assets/78963880-55bd-42f8-a3e5-2e5e144423f8)
 
 
