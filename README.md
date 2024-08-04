@@ -19,6 +19,20 @@ vectorstores_path 文档向量化后服务器保存路径
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 知识文件管理页面
 ![440432b2d0f193625659ffbc3d10b9f](https://github.com/user-attachments/assets/78963880-55bd-42f8-a3e5-2e5e144423f8)
 
